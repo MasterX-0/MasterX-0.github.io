@@ -1,6 +1,9 @@
 p {
   color: #000080;
 }
+body {
+  background-color: #19191c;
+}
 a[href] {
   color: #00FFFF;
 }
